@@ -1,15 +1,14 @@
-interface ButtonProps {
+export interface ButtonProps {
   label: string;
   onClick: () => void;
 }
 
-interface CardProps {
+export interface CardProps {
   title: string;
   content: string;
 }
 
-
-interface PropertyProps{
+export interface PropertyProps {
   name: string;
   address: {
     state: string;
@@ -26,4 +25,5 @@ interface PropertyProps{
   };
   image: string;
   discount: string;
+  description?: string;
 }

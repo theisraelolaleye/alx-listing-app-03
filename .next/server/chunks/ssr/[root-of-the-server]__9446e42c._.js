@@ -70,7 +70,8 @@ var __TURBOPACK__imported__module__$5b$next$5d2f$internal$2f$font$2f$google$2f$g
 ;
 function Home() {
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
-        className: " flex"
+        className: " flex",
+        children: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Qui adipisci in unde dolores ipsam velit asperiores ab atque enim! Fugit placeat ad delectus voluptatibus maiores vitae iusto perspiciatis illum exercitationem."
     }, void 0, false, {
         fileName: "[project]/pages/index.tsx",
         lineNumber: 21,
